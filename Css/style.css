@@ -134,6 +134,6 @@ body{
     justify-content: center;
 }
 
-body > div > div:nth-child(1) > div > img{
-    object-fit: none
+#product{
+    margin: 50px;
 }
