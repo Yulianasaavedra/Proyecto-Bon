@@ -15,12 +15,17 @@ p{
  font-sice: 20px;
  serif;
 }
-h1{
+h1 {
     font-family: fantasy;
     text-shadow: 
     3px 3px 1px #f8d0cd,
     5px 5px 2px orangered,
     8px 8px 3px brown;
+}
+h4{
+    font-family:'Courier New', Courier, monospace;
+    padding-left: 80px;
+    position:absolute;
 }
 #productoscards{
     padding: 0px;
