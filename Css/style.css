@@ -4,7 +4,24 @@
 .color4 {color: #db9897;}
 .color5 {color: #f8d0cd;}
 
-
+#mision{
+    padding-top:  30px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 30px;
+}
+p{
+ font-family:
+ font-sice: 20px;
+ serif;
+}
+h1{
+    font-family: fantasy;
+    text-shadow: 
+    3px 3px 1px #f8d0cd,
+    5px 5px 2px orangered,
+    8px 8px 3px brown;
+}
 #productoscards{
     padding: 0px;
 
